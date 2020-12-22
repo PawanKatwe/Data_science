@@ -1,3 +1,0 @@
-Assignmnent_1.docs : Quesitions with answers
-Assignment 1.ipynb : some quesiont are sloved in jupyter notbook file.
-CSV files : Datasets used to solved the questions.
